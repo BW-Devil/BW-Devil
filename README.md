@@ -2,7 +2,7 @@
   <br>
   <samp>
     Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://devilwords.com">Y3un9vj</a></b>.
-    <br>I'm a Computer Science Undergraduate Student from China.<br>
+    <br>IOT security researcher from china.<br>
 
   </samp>
 
